@@ -1,6 +1,6 @@
 <script>
 document.addEventListener('DOMContentLoaded', function() {
-    // Find the select field by ID (use the ID you added in step 2)
+    // Find the select field by ID (use the css ID in your CF7 form option)
     var selectField = document.getElementById('your-option');
 
     // If the select field is not found, exit the function
